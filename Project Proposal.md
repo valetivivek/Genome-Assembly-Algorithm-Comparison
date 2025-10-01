@@ -1,9 +1,9 @@
 # CAP5510 Project Proposal: Genome Assembly Algorithm Comparison
 
 ## Team Members
-- Vishnu Vivek Valeti  
-- Durga Mahesh Boppani  
-- Venkata Satya Dinesh Chandra Gupta Kolipakula Dhatri  
+- Vishnu Vivek Valeti (UFID: 44729768)  
+- Durga Mahesh Boppani (UFID: 90679845)  
+- Venkata Satya Dinesh Chandra Gupta Kolipakula Dhatri (UFID: 79236303)  
 
 ## Abstract
 Genome assembly is a fundamental task in bioinformatics that reconstructs complete genomes from short sequencing reads. Numerous assembly algorithms exist, each offering distinct strengths and limitations in terms of accuracy, contiguity, and computational performance. This project proposes a comparative analysis of three widely used assemblers—SPAdes, Velvet, and SOAPdenovo—using bacterial genome sequencing datasets. Assemblies will be evaluated on standard quality metrics such as N50, total assembly length, number of contigs, and genome coverage, alongside runtime and memory usage. The results will highlight trade-offs between assembly quality and computational efficiency, providing practical insights for selecting appropriate tools in microbial genomics.
