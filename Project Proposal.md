@@ -33,7 +33,7 @@ Comparing these assemblers on identical datasets will allow us to assess how alg
      - *Escherichia coli K-12 MG1655*: [SRR1770413](https://www.ncbi.nlm.nih.gov/sra/?term=SRR1770413)  
      - *Bacillus subtilis subsp. subtilis 168*: [SRR12519857](https://www.ncbi.nlm.nih.gov/sra/?term=SRR12519857)  
    - Select datasets with varying read lengths and coverage to assess robustness.  
-
+   - Further datasets if found will be explored.
 2. **Assembly Process**  
    - Run assemblies with default parameters for each tool.  
    - Record results and optionally test parameter variations (e.g., k-mer size).  
